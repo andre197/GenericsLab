@@ -1,0 +1,6 @@
+D:\Visual Studio\InterfaceAndAbstraction\Generics\Problem.1 Box\bin\Debug\Problem.1 Box.exe.config
+D:\Visual Studio\InterfaceAndAbstraction\Generics\Problem.1 Box\bin\Debug\Problem.1 Box.exe
+D:\Visual Studio\InterfaceAndAbstraction\Generics\Problem.1 Box\bin\Debug\Problem.1 Box.pdb
+D:\Visual Studio\InterfaceAndAbstraction\Generics\Problem.1 Box\obj\Debug\Problem.1 Box.csprojResolveAssemblyReference.cache
+D:\Visual Studio\InterfaceAndAbstraction\Generics\Problem.1 Box\obj\Debug\Problem.1 Box.exe
+D:\Visual Studio\InterfaceAndAbstraction\Generics\Problem.1 Box\obj\Debug\Problem.1 Box.pdb
